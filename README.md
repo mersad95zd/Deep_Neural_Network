@@ -1,5 +1,5 @@
 # Deep_Neural_Network
-<p align= "center"> The aim of this repository is to provide two simple examples which show how to build a Neural Network, a Deep Neural Network (DNN) , and a Convolutional Neural Network (CNN) from the scratch in python. The first two are provided in 1.ipynb and the last one is shown in 2.ipynb. 
+<p align= "justify"> The aim of this repository is to provide two simple examples which show how to build a Neural Network, a Deep Neural Network (DNN) , and a Convolutional Neural Network (CNN) from the scratch in python. The first two are provided in 1.ipynb and the last one is shown in 2.ipynb. 
 Different parts of each report contains parameter setup and illustrations by which it is shown that what setup works best for the given dataset. </p>
 
 # Dataset
